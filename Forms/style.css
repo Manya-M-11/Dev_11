@@ -1,4 +1,12 @@
-body{
-    color: rgb(101, 101, 174);
-    background-color: lavender;
+.name{
+    background-color: red;
+    text-align: center;
+    color: blue;
+}
+
+#secondiv{
+    background-color: pink;
+    color: #000;
+    text-align: center;
+
 }
